@@ -1,8 +1,26 @@
-- 👋 Hi, I’m Patrick! @pjmcdermott92
-- 👀 I’m interested in Developing new things
-- 🌱 I’m currently learning React and Angular
-- 💞️ I’m looking to collaborate on Web Development Jobs
-- 📫 You can reach me at my portfolio page.
+# 👋 Hi, I’m Patrick! @pjmcdermott92
+
+I am passionate about anything related to web development. I have built sites for individuals, authors, and small businesses. These sites range in complexity from simple landing pages to full-featured blogs and web applications.
+
+I keep myself busy by:
+
+- Coaching and mentoring students to succeed
+- Learning cool and exciting web technologies
+- Writing articles on Medium
+
+## Languages & Frameworks
+
+### Front End Technologies
+HTML5, CSS3, SCSS, JavaScript, React, NextJS, Redux
+
+### CSS Frameworks
+Bootstrap, Bulma
+
+### Back End Technologies
+NodeJS, ExpressJS, PHP
+
+### Databases
+MongoDB, FaunaDB, MySQL
 
 <!---
 pjmcdermott92/pjmcdermott92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
